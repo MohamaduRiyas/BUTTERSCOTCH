@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Butterscotch Departmental Store",
+  "description": "A modern, full-featured e-commerce web application for the Butterscotch departmental store, built with React, TypeScript, and Tailwind CSS. It features a product catalog, shopping cart, and a simulated checkout process.",
+  "requestFramePermissions": []
+}
